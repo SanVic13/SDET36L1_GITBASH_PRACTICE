@@ -8,5 +8,6 @@ public class PracticeGitbash01Test {
 	@Test
 	public void practiceGithub01() {
 		Reporter.log("practice github 01", true);
+		Reporter.log("practice github 02", true);
 	}
 }
